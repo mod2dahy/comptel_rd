@@ -1,0 +1,16 @@
+Comptel Offline Programming Java Test 
+
+This program is built based on the following   requirements: 
+	•  Receive long input parameter as number
+	•   Generate corresponding number of  Random Strings
+	•	Build statistics per each char in this Random Strings 
+	•	Print the result as char and corresponding number of existence 
+
+how to run  
+•	You can start the the Application by doing the following 
+	put the log4j.properties the target folder  
+	java -Dsize=<Amount of String> CharsStatistics-0.0.1-SNAPSHOT-jar-with-dependencies.jar
+	ex: Java -Dsize=1234 -jar  CharsStatistics-0.0.1-SNAPSHOT-jar-with-dependencies.jar
+	
+	
+	
